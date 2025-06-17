@@ -17,6 +17,7 @@ const About = () => {
           <p>Our vision at Prescripto is to create a seamless healthcare experience for every user. We aim to bridge the gap between patients and healthcare providers, making it easier for you to access the care you need, when you need it.</p>
         </div>
       </div>
+      
 
       <div className='text-xl my-4'>
         <p>WHY  <span className='text-gray-700 font-semibold'>CHOOSE US</span></p>
