@@ -1,8 +1,8 @@
 # 🩺 MediCare – Doctor Appointment Booking System
 
-Prescripto is a **full-featured healthcare web platform** built to streamline the process of booking medical appointments online. With role-based authentication for **Patients, Doctors, and Admins**, Prescripto enables efficient appointment management, real-time earnings dashboards, and **secure payments via Stripe and Razorpay**.
+MediCare is a **full-featured healthcare web platform** built to streamline the process of booking medical appointments online. With role-based authentication for **Patients, Doctors, and Admins**, MediCare enables efficient appointment management, real-time earnings dashboards, and **secure payments via Stripe and Razorpay**.
 
-Whether you're a patient looking for a trusted physician, a doctor managing your appointments, or an admin handling the backend — Prescripto offers a complete and modern digital solution.
+Whether you're a patient looking for a trusted physician, a doctor managing your appointments, or an admin handling the backend — Medicare offers a complete and modern digital solution.
 
 ---
 
@@ -71,7 +71,7 @@ Whether you're a patient looking for a trusted physician, a doctor managing your
 
 ### 📄 About
 
-* Overview of Prescripto’s vision and advantages.
+* Overview of MediCare's vision and advantages.
 * Section: *Why Choose Us?*
 
   * Fast & Efficient Booking.
