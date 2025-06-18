@@ -1,4 +1,4 @@
-# 🩺 Prescripto – Doctor Appointment Booking System
+# 🩺 MediCare – Doctor Appointment Booking System
 
 Prescripto is a **full-featured healthcare web platform** built to streamline the process of booking medical appointments online. With role-based authentication for **Patients, Doctors, and Admins**, Prescripto enables efficient appointment management, real-time earnings dashboards, and **secure payments via Stripe and Razorpay**.
 
@@ -112,7 +112,7 @@ Whether you're a patient looking for a trusted physician, a doctor managing your
 
 ## 💳 Payment Integration
 
-Prescripto offers a **flexible payment model**:
+MediCare offers a **flexible payment model**:
 
 | Method      | Status           |
 | ----------- | ---------------- |
@@ -126,26 +126,8 @@ All payments are securely handled, and payment status is updated on appointment 
 
 ## 📝 Disclaimer
 
-**Prescripto is a portfolio-level project created for demonstration and educational purposes only.**
+**MediCare is a portfolio-level project created for demonstration and educational purposes only.**
 All medical listings, bookings, and payment integrations are mock implementations. No actual medical services are provided, and all user data is fictitious. This system is not intended for commercial use.
-
----
-
-## 📬 Connect & Contribute
-
-🔹 **Found a bug?** [Open an issue](https://github.com/mohd-amaan1/Prescripto/issues)
-🔹 **Have an idea?** Submit a Pull Request!  
-🔹 **Need help or want to discuss?** Join the [GitHub Discussions](#)  
-
-⭐ **Love this project? Don’t forget to star it!** ⭐
-
----
-
-## 🏆 Built with Passion, Shared with the Community
-
-> *“Healthcare should be accessible. Booking should be effortless.”*
-
-Crafted with 💙 by **Mohd Amaan**
 
 ---
 

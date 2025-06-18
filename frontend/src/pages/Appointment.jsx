@@ -144,6 +144,7 @@ const Appointment = () => {
                     {/* ----- Doc Info : name, degree, experience ----- */}
 
                     <p className='flex items-center gap-2 text-3xl font-medium text-gray-700'>{docInfo.name} <img className='w-5' src={assets.verified_icon} alt="" /></p>
+                    <p className='text-sm text-gray-500 mt-1'>{docInfo.email}</p>
                     <div className='flex items-center gap-2 mt-1 text-gray-600'>
                         <p>{docInfo.degree} - {docInfo.speciality}</p>
                         <button className='py-0.5 px-2 border text-xs rounded-full'>{docInfo.experience}</button>

@@ -8,7 +8,7 @@ const Footer = () => {
         <div>
           <img className="mb-5 w-40" src={assets.logo} alt="" />
           <p className="w-full md:w-2/3 text-gray-600 leading-6">
-            Prescripto offers a seamless way to book doctor appointments online.
+            MediCare offers a seamless way to book doctor appointments online.
             Discover verified healthcare professionals, schedule consultations
             with ease, and make secure online payments — anytime, anywhere.
           </p>
@@ -33,8 +33,8 @@ const Footer = () => {
         <div>
           <p className="text-xl font-medium mb-5">GET IN TOUCH</p>
           <ul className="flex flex-col gap-2 text-gray-600">
-            <li>64750XXXX</li>
-            <li>xyx@gmail.com</li>
+            <li>6475064750</li>
+            <li>info@medicare.com</li>
           </ul>
         </div>
       </div>
@@ -42,7 +42,7 @@ const Footer = () => {
       <div>
         <hr />
         <p className="py-5 text-sm text-center">
-          Copyright 2025 @ Prescripto.com - All Right Reserved.
+          Copyright 2025 @ medicare.com - All Right Reserved.
         </p>
       </div>
     </div>
