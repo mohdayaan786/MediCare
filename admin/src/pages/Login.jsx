@@ -5,7 +5,6 @@ import { AdminContext } from '../context/AdminContext'
 import { toast } from 'react-toastify'
 
 const Login = () => {
-
   const [state, setState] = useState('Admin')
 
   const [email, setEmail] = useState('')
@@ -44,6 +43,7 @@ const Login = () => {
   }
 
   return (
+    <div className='min-h-screen flex flex-col'>
     <form onSubmit={onSubmitHandler} className='min-h-[80vh] flex items-center'>
       <div className='flex flex-col gap-3 m-auto items-start p-8 min-w-[340px] sm:min-w-96 border rounded-xl text-[#5E5E5E] text-sm shadow-lg'>
         <p className='text-2xl font-semibold m-auto'><span className='text-primary'>{state}</span> Login</p>
@@ -60,9 +60,11 @@ const Login = () => {
           state === 'Admin'
             ? <p>Doctor Login? <span onClick={() => setState('Doctor')} className='text-primary underline cursor-pointer'>Click here</span></p>
             : <p>Admin Login? <span onClick={() => setState('Admin')} className='text-primary underline cursor-pointer'>Click here</span></p>
-        }
+        } 
       </div>
     </form>
+    <a href='http://localhost:5173/' target='_blank' className='m-auto mb-4 text-primary underline'>Go to Main Website</a>
+    </div>
   )
 }
 
