@@ -63,7 +63,7 @@ const Login = () => {
         } 
       </div>
     </form>
-    <a href='http://localhost:5173/' target='_blank' className='m-auto mb-4 text-primary underline'>Go to Main Website</a>
+    <a href='https://medi-care-d9k1.vercel.app/' target='_blank' className='m-auto mb-4 text-primary underline'>Go to Main Website</a>
     </div>
   )
 }
